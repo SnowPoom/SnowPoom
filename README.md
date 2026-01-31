@@ -1,7 +1,7 @@
-# ¡Hola! Soy Jonathan Pagual 👋 
+# ¡Hola! Soy Jonathan Pagual :)
 
 ### 👨‍💻 Estudiante de Ingeniería de Software (5to Semestre)
-[cite_start]Ubicado en Quito, Ecuador 🇪🇨 Me apasiona el diseño, implementación de sistemas y la gestión de Bases de Datos.
+Ubicado en Quito, Ecuador 🇪🇨 Me apasiona el diseño, implementación de sistemas y la gestión de Bases de Datos.
 
 ---
 
@@ -10,7 +10,7 @@
 - 🤝 Disfruto el trabajo en equipo, proponer soluciones prácticas y participar en proyectos desafiantes.
 - 💡 Tengo experiencia en proyectos académicos como sistemas de control de transporte y asistentes de voz.
 
-### [cite_start]🛠️ Competencias Técnicas [cite: 24]
+### 🛠️ Competencias Técnicas
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -22,8 +22,8 @@
 ---
 
 ### 📁 Proyectos Destacados
-* [cite_start]**Sistema de Control de Taxis**: Colaboración en el desarrollo para una cooperativa[cite: 14].
-* [cite_start]**Asistente de Voz**: Implementación de un asistente personal para computador[cite: 16].
-* [cite_start]**App de Apuestas**: Desarrollo de una aplicación web básica[cite: 15].
+* **Sistema de Control de Taxis**: Colaboración en el desarrollo para una cooperativa.
+* **Asistente de Voz**: Implementación de un asistente personal para computador.
+* **App de Apuestas**: Desarrollo de una aplicación web básica.
 
 
