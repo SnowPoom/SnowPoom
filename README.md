@@ -1,14 +1,14 @@
-# ¡Hola! [cite_start]Soy Jonathan Pagual 👋 [cite: 7, 8]
+# ¡Hola! Soy Jonathan Pagual 👋 
 
-### [cite_start]👨‍💻 Estudiante de Ingeniería de Software (5to Semestre) [cite: 9, 18]
-[cite_start]Ubicado en Quito, Ecuador 🇪🇨[cite: 5]. [cite_start]Me apasiona el diseño, implementación de sistemas y la gestión de Bases de Datos[cite: 11].
+### 👨‍💻 Estudiante de Ingeniería de Software (5to Semestre)
+[cite_start]Ubicado en Quito, Ecuador 🇪🇨 Me apasiona el diseño, implementación de sistemas y la gestión de Bases de Datos.
 
 ---
 
 ### 🚀 Sobre mí
-- [cite_start]🎓 Actualmente cursando la carrera en la **Escuela Politécnica Nacional**[cite: 18].
-- [cite_start]🤝 Disfruto el trabajo en equipo, proponer soluciones prácticas y participar en proyectos desafiantes[cite: 12].
-- [cite_start]💡 Tengo experiencia en proyectos académicos como sistemas de control de transporte y asistentes de voz[cite: 14, 16].
+- 🎓 Actualmente cursando la carrera en la **Escuela Politécnica Nacional**.
+- 🤝 Disfruto el trabajo en equipo, proponer soluciones prácticas y participar en proyectos desafiantes.
+- 💡 Tengo experiencia en proyectos académicos como sistemas de control de transporte y asistentes de voz.
 
 ### [cite_start]🛠️ Competencias Técnicas [cite: 24]
 
@@ -26,6 +26,4 @@
 * [cite_start]**Asistente de Voz**: Implementación de un asistente personal para computador[cite: 16].
 * [cite_start]**App de Apuestas**: Desarrollo de una aplicación web básica[cite: 15].
 
-### 📫 Contacto
-[cite_start]![Email](https://img.shields.io/badge/Email-jonathan.pagual%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook) 
-[cite_start]![Phone](https://img.shields.io/badge/Phone-0998958203-green?style=flat-square&logo=whatsapp) [cite: 2]
+
