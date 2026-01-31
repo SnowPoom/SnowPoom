@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Jonathan Pagual 👋
 
-<!--
-**SnowPoom/SnowPoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Estudiante de Ingeniería de Software (6to Semestre)
+Ubicado en Quito, Ecuador 🇪🇨. Me apasiona el diseño de sistemas, la gestión de bases de Datos y la resolución de problemas técnicos de forma creativa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🎓 Actualmente cursando la carrera en la **Escuela Politécnica Nacional**.
+- 🤝 Disfruto el trabajo en equipo y proponer soluciones prácticas a retos reales.
+- 💡 Interesado en el desarrollo de software robusto y la computación gráfica.
+
+### 🛠️ Competencias Técnicas
+- **Lenguajes:** Java (Intermedio), C++ (Intermedio), Python (Básico).
+- **Bases de Datos:** SQL.
+- **Gráficos & Herramientas:** OpenGL, Git.
+
+### 📁 Proyectos Destacados
+- **Sistema de Control para Taxis:** Colaboración en el desarrollo de software de gestión operativa.
+- **Asistente de Voz:** Implementación de un asistente personal para PC controlado por comandos de voz.
+- **App de Apuestas:** Desarrollo de una aplicación web básica para práctica de lógica.
+
+---
+
+### 📫 Contacto
+- 📧 [jonathan.pagual@hotmail.com](mailto:jonathan.pagual@hotmail.com)
+- 📱 0998958203
+- 💼 [Mi Portafolio](TU_LINK_AQUI)
