@@ -8,7 +8,6 @@ Ubicado en Quito, Ecuador 🇪🇨 Me apasiona el diseño, implementación de si
 ### 🚀 Sobre mí
 - 🎓 Actualmente cursando la carrera en la **Escuela Politécnica Nacional**.
 - 🤝 Disfruto el trabajo en equipo, proponer soluciones prácticas y participar en proyectos desafiantes.
-- 💡 Tengo experiencia en proyectos académicos como sistemas de control de transporte y asistentes de voz.
 
 ### 🛠️ Competencias Técnicas
 
