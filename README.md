@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jonathan Pagual :)
 
-### 👨‍💻 Estudiante de Ingeniería de Software (6to Semestre)
+### 👨‍💻 Estudiante de Ingeniería de Software (7mo Semestre)
 Ubicado en Quito, Ecuador 🇪🇨 Me apasiona el diseño, implementación de sistemas y la gestión de Bases de Datos.
 
 ---
